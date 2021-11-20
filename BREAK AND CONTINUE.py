@@ -20,7 +20,7 @@
 #     for item in Sam,Normal:
 #          print(item)
 # Sham=[ "Vinod","Sak"]
-# Har = ["Sam","Ram"]
+ Har = ["Sam","Ram"]
 #
 #
 #
